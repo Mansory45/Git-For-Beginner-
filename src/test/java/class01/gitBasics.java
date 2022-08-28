@@ -7,5 +7,6 @@ public class gitBasics {
         System.out.println("Today us a beautiful day ");
         System.out.println("Today is not a beautiful night");
         System.out.println("Hello github user1");
+        System.out.println("How to clone a project from repoistory in gitHub ");
     }
 }
